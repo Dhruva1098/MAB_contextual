@@ -1,4 +1,4 @@
-#it might print some test subs because i created this in j
+#it might print some test subs because i created this in jupyter 
 
 import numpy as np
 import torch
