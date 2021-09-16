@@ -1,3 +1,5 @@
+#it might print some test subs because i created this in j
+
 import numpy as np
 import torch
 import torch.nn as nn
