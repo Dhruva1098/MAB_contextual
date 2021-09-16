@@ -1,4 +1,4 @@
-#it might print some test subs because i created this in jupyter notebook 
+#it might print some test subs because i created this in jupyter notebook and was constantly checking weather the model is working. If you want to use it for something else, you might comment those out or erase it 
 
 import numpy as np
 import torch
